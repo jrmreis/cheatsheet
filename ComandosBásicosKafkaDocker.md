@@ -1,4 +1,4 @@
-# Comandos kafka para Docker (na raiz):
+# Comandos kafka para **Docker** (na raiz):
 
 ## Criar novo tópico :
 ./usr/bin/kafka-topics \
@@ -153,6 +153,6 @@ bootstrap.servers=localhost:9092
 --topic perf \
 --messages 100000
 
-fonte: [https://www.youtube.com/watch?v=gonVzrQ-azY]
+fonte: https://www.youtube.com/watch?v=gonVzrQ-azY
 
 
