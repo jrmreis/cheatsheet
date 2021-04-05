@@ -1,8 +1,7 @@
 # tutorials
 Comandos para consulta copy &amp; paste ou tutoriais
 
-<details>
-  <summary> 
+
 
 [Docker commands](https://github.com/jrmreis/tutorials/blob/main/DockerBasic.md)
 
@@ -14,6 +13,10 @@ Comandos para consulta copy &amp; paste ou tutoriais
 
 [Kafka Docker commands](https://github.com/jrmreis/tutorials/blob/main/KafkaDocker.md)
 
- <b> Things to know about me! </b> <i>(click ro expand!)</i>
+
+
+<details>
+  <summary> 
+<b> Things to know about me! </b> <i>(click ro expand!)</i>
  </summary>
 
