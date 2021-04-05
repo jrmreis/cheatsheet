@@ -19,3 +19,5 @@
 ## Listar todos os tópicos:
 
 `./kafka-topics.sh --list --zookeeper localhost:2181`
+
+fonte: https://dzone.com/articles/apache-kafka-basic-setup-and-usage-with-command-li
