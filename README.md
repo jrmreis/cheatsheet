@@ -30,6 +30,7 @@ Comandos para consulta copy &amp; paste ou tutoriais
 [Kafka Basic Line Commands](https://github.com/jrmreis/tutorials/blob/main/BasicKafka.md)
   
 <br>
+
 [Kafka Docker commands](https://github.com/jrmreis/tutorials/blob/main/KafkaDocker.md)
 
 <br>
