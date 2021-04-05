@@ -153,6 +153,6 @@ bootstrap.servers=localhost:9092
 --topic perf \\ \
 --messages 100000
 
-fonte: [Apache Kafka](https://www.youtube.com/watch?v=gonVzrQ-azY)
+fonte: [You Tube - Apache Kafka](https://www.youtube.com/watch?v=gonVzrQ-azY)
 
 
