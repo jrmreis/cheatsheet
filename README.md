@@ -1,6 +1,9 @@
 # tutorials
 Comandos para consulta copy &amp; paste ou tutoriais
 
+<details>
+  <summary> <b> Things to know about me! </b> <i>(click ro expand!)</i>
+
 [Docker commands](https://github.com/jrmreis/tutorials/blob/main/DockerBasic.md)
 
 [Git commands](https://github.com/jrmreis/tutorials/blob/main/GIT_commands.md)
@@ -11,6 +14,5 @@ Comandos para consulta copy &amp; paste ou tutoriais
 
 [Kafka Docker commands](https://github.com/jrmreis/tutorials/blob/main/KafkaDocker.md)
 
-<details>
-  <summary> <b> Things to know about me! </b> <i>(click ro expand!)</i> </summary>
+ </summary>
 
