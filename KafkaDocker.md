@@ -3,7 +3,7 @@
 ## Criar novo tópico :
 ./usr/bin/kafka-topics \\ \
 --bootstrap-server zookeeper:2181 \\ \
---create \\ \ 
+--create \\ \
 --topic my-first-topic \\ \
 --partitions 3 \\ \
 --replication-factor 1
