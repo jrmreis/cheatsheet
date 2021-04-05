@@ -1,12 +1,12 @@
 # Comandos kafka para Docker (na raiz):
 
 ## Criar novo tópico :
-`./usr/bin/kafka-topics \
---bootstrap-server zookeeper:2181 \
+`./usr/bin/kafka-topics \` \
+`--bootstrap-server zookeeper:2181 \`
 --create \
 --topic my-first-topic \
 --partitions 3 \
---replication-factor 1`
+--replication-factor 1
 
 ## Criar novo tópico, se não existir (na raiz):
 ./usr/bin/kafka-topics \\ \
