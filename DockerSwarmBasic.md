@@ -40,3 +40,5 @@ backup
 - `docker service update --constraint-rm node.hostname==vm4 ci10k3u7q6ti`
 
 - `docker network ls` - mostra todas as redes (drivers)
+
+Fonte: curso [Docker Swarm - Alura](https://cursos.alura.com.br/course/docker-swarm-cluster-container)
