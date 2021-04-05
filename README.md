@@ -1,4 +1,4 @@
-# tutorials
+# Tutorials
 Comandos para consulta copy &amp; paste ou tutoriais
 
 <details>
