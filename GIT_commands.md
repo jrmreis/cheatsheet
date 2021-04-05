@@ -446,4 +446,4 @@ Depois de encontrar o commit com problema, para retornar para o *HEAD* utilize:
 	git bisect reset
 
 Fonte principal: 
-[leocomelli/git.md] (https://gist.github.com/leocomelli/2545add34e4fec21ec16)
+[leocomelli/git.md](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
