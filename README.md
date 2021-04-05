@@ -29,6 +29,10 @@ Comandos para consulta copy &amp; paste ou tutoriais
   
   <br>
   
+[Kafka quick start](https://kafka.apache.org/quickstart)
+
+<br>
+  
 [Kafka Basic Line Commands](https://github.com/jrmreis/tutorials/blob/main/BasicKafka.md)
   
 <br>
