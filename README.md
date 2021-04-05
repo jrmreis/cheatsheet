@@ -1,25 +1,15 @@
 # tutorials
 Comandos para consulta copy &amp; paste ou tutoriais
 
-
-
-[Docker commands](https://github.com/jrmreis/tutorials/blob/main/DockerBasic.md)
-
-
-
-
-
-
 <details>
-  <summary> <b> Docker </b> <i>(click ro expand!)</i>  </summary>
-  <br>
+  <summary> <b> Docker </b> <i>(click to expand!)</i>  </summary>
   
 [Docker commands](https://github.com/jrmreis/tutorials/blob/main/DockerBasic.md)
 
 </details>
 
 <details>
-  <summary> <b> Github </b> <i>(click ro expand!)</i>  </summary>
+  <summary> <b> Github </b> <i>(click to expand!)</i>  </summary>
   <br>
   
 [Git commands](https://github.com/jrmreis/tutorials/blob/main/GIT_commands.md)
@@ -28,7 +18,7 @@ Comandos para consulta copy &amp; paste ou tutoriais
 </details>
 
 <details>
-  <summary> <b> Kafka </b> <i>(click ro expand!)</i>  </summary>
+  <summary> <b> Kafka </b> <i>(click to expand!)</i>  </summary>
   <br>
   
 
