@@ -54,6 +54,8 @@ Comandos para consulta copy &amp; paste ou tutoriais
 
 <br>
 
+</details>
+
 <details>
   <summary> <b> CSS </b>   </summary>
   
