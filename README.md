@@ -55,9 +55,13 @@ Comandos para consulta copy &amp; paste ou tutoriais
 <br>
 
 <details>
-  <summary> <b> Docker </b>   </summary>
+  <summary> <b> CSS </b>   </summary>
+  
   <br>
+  
 [Label float](https://csslayout.io/patterns/floating-label/)
+
+<br>
 
 </details>
 
