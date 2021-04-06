@@ -8,6 +8,10 @@ Comandos para consulta copy &amp; paste ou tutoriais
 [Docker commands](https://github.com/jrmreis/tutorials/blob/main/DockerBasic.md)
 
   <br>
+  
+  [Swarm](https://github.com/jrmreis/crib_sheet/blob/main/DockerSwarmBasic.md)
+  
+  <br>
 
 </details>
 
