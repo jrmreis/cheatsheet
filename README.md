@@ -42,6 +42,9 @@ Comandos para consulta copy &amp; paste ou tutoriais
 <br>
 
 [Kafka cluster cloud](https://codeforgeek.com/how-to-setup-zookeeper-cluster-for-kafka/)
+- []()
+- []()
+- []()
 
 <br>
 
