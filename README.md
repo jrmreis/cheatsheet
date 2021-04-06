@@ -42,9 +42,9 @@ Comandos para consulta copy &amp; paste ou tutoriais
 <br>
 
 [Kafka cluster cloud](https://codeforgeek.com/how-to-setup-zookeeper-cluster-for-kafka/)
-- []()
-- []()
-- []()
+- [Start](https://github.com/jrmreis/crib_sheet/blob/main/kStart.sh)
+- [Stop](https://github.com/jrmreis/crib_sheet/blob/main/kStop.sh)
+- [Consumer](https://github.com/jrmreis/crib_sheet/blob/main/kConsumer.sh)
 
 <br>
 
