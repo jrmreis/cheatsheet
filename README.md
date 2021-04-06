@@ -61,7 +61,7 @@ Comandos para consulta copy &amp; paste ou tutoriais
   
   <br>
   
-[Label float](https://csslayout.io/patterns/floating-label/)
+[Floating Label](https://csslayout.io/patterns/floating-label/)
 
 <br>
 
