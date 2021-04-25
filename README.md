@@ -68,7 +68,7 @@ Comandos para consulta copy &amp; paste ou tutoriais
 </details>
 
 <details>
-  <summary> <b> Banco de Dados JPA </b>   </summary>
+  <summary> <b> Banco de Dados </b>   </summary>
   <br>
 
 [JPA](https://www.tutorialspoint.com/jpa/jpa_quick_guide.htm)
@@ -76,4 +76,17 @@ Comandos para consulta copy &amp; paste ou tutoriais
 <br>
 
 </details>
+
+
+<details>
+  <summary> <b> Java </b>   </summary>
+  <br>
+  
+  [Apostila Orientação à objetos em Java](http://www.inf.furb.br/~marcel/k19-k11-orientacao-a-objetos-em-java.pdf)
+  
+  <br>
+
+</details>
+
+  
 
