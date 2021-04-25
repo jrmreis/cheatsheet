@@ -75,6 +75,10 @@ Comandos para consulta copy &amp; paste ou tutoriais
 
 <br>
 
+[JPA project](https://resources.oreilly.com/examples/0636920025405)
+
+<br>
+
 </details>
 
 
