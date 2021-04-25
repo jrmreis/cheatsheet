@@ -67,3 +67,13 @@ Comandos para consulta copy &amp; paste ou tutoriais
 
 </details>
 
+<details>
+  <summary> <b> Banco de Dados JPA </b>   </summary>
+  <br>
+
+[JPA](https://www.tutorialspoint.com/jpa/jpa_quick_guide.htm)
+
+<br>
+
+</details>
+
