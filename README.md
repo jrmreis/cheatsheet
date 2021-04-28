@@ -83,7 +83,7 @@ Comandos para consulta copy &amp; paste ou tutoriais
 
 
 <details>
-  <summary> <b> Java </b>   </summary>
+  <summary> <b> Java & Web </b>   </summary>
   <br>
   
   [Apostila Orientação à objetos em Java](http://www.inf.furb.br/~marcel/k19-k11-orientacao-a-objetos-em-java.pdf/)
