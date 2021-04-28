@@ -89,8 +89,9 @@ Comandos para consulta copy &amp; paste ou tutoriais
   [Apostila Orientação à objetos em Java](http://www.inf.furb.br/~marcel/k19-k11-orientacao-a-objetos-em-java.pdf/)
   
   <br>
+ 
+[Configurando o Thymeleaf](https://www.baeldung.com/spring-thymeleaf-template-directory)
+
+  <br>
 
 </details>
-
-  
-
