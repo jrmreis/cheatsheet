@@ -107,6 +107,9 @@ Comandos para consulta copy &amp; paste ou tutoriais
 [Chart.js](https://www.chartjs.org/docs/2.9.4/)
 
   <br>
+  
+[Vue-Chart.js](ttps://vue-chartjs.org/guide/#introduction)
+
+  <br>
 
 </details>
-
