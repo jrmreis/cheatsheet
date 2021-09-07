@@ -95,3 +95,18 @@ Comandos para consulta copy &amp; paste ou tutoriais
   <br>
 
 </details>
+
+<details>
+  <summary> <b> JavaScript </b>   </summary>
+  <br>
+  
+  [Node.js](https://nodejs.org/dist/latest-v14.x/docs/api/)
+  
+  <br>
+ 
+[Chart.js](https://www.chartjs.org/docs/2.9.4/)
+
+  <br>
+
+</details>
+
