@@ -32,10 +32,10 @@ As configurações realizadas através dos comandos abaixo serão incluídas no 
 	git config --global user.email leonardo@software-ltda.com.br
 	
 ##### Setar editor (VS Code)
-	git config --global core.editor 'code --wait'
+	git config --global core.editor "code --wait"
 	
 ##### Setar ferramenta de merge
-	git config --global merge.tool vimdiff
+	git config --global difftool.vscode.cmd "code --wait --diff $LOCAL $REMOTE"
 
 ##### Setar arquivos a serem ignorados
 	git config --global core.excludesfile ~/.gitignore
