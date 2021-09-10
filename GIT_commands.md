@@ -31,8 +31,8 @@ As configurações realizadas através dos comandos abaixo serão incluídas no 
 ##### Setar email
 	git config --global user.email leonardo@software-ltda.com.br
 	
-##### Setar editor
-	git config --global core.editor vim
+##### Setar editor (VS Code)
+	git config --global core.editor 'code --wait'
 	
 ##### Setar ferramenta de merge
 	git config --global merge.tool vimdiff
