@@ -112,6 +112,14 @@ Comandos para consulta copy &amp; paste ou tutoriais
 
   <br>
   
+  [Apostila Vue.js](https://vue-chartjs.org/guide/#introduction)
+  
+  <br>
+  
+  [Vue.js - oficial](https://br.vuejs.org/)
+  
+  <br>
+  
   [Vue-Chart.js](https://vue-chartjs.org/guide/#introduction)
 
   <br>
