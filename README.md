@@ -103,12 +103,16 @@ Comandos para consulta copy &amp; paste ou tutoriais
   [Node.js](https://nodejs.org/dist/latest-v14.x/docs/api/)
   
   <br>
+  
+  [Apostila Orientação à objetos em Java](http://www.inf.furb.br/~marcel/k19-k11-orientacao-a-objetos-em-java.pdf/)
  
-[Chart.js](https://www.chartjs.org/docs/2.9.4/)
+  <br>
+
+  [Apostila HTML, CSS e JavaScript](https://www.caelum.com.br/apostila/apostila-html-css-javascript.pdf)
 
   <br>
   
-[Vue-Chart.js](https://vue-chartjs.org/guide/#introduction)
+  [Vue-Chart.js](https://vue-chartjs.org/guide/#introduction)
 
   <br>
 
