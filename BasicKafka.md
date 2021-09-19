@@ -2,7 +2,7 @@
 
 ## Iniciar o Zookeeper
 
-`./zookeeper-server-start.sh ../config/zookeeper.properties`
+```./zookeeper-server-start.sh ../config/zookeeper.properties```
 
 ## Iniciar o Kafka:
 
