@@ -63,6 +63,7 @@ Comandos para consulta copy &amp; paste ou tutoriais
 [VI commands](https://github.com/jrmreis/tutorials/blob/main/CommandsVi.md)
 
   <br>
+</details>
 
 <details>
   <summary> <b> CSS </b>   </summary>
