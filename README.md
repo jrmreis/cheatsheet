@@ -63,6 +63,13 @@ Comandos para consulta copy &amp; paste ou tutoriais
 [VI commands](https://github.com/jrmreis/tutorials/blob/main/CommandsVi.md)
 
   <br>
+  
+  
+  [Introdução ao VI](https://medium.com/tableless/comandos-b%C3%A1sicos-do-vim-para-ningu%C3%A9m-ficar-preso-no-servidor-93f0d21d5508)
+  
+  
+<br>
+  
 </details>
 
 <details>
