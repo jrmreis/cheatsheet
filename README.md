@@ -70,7 +70,7 @@ Comandos para consulta copy &amp; paste ou tutoriais
   
 <br>
   
-  [Personalizando o VI](https://linuxhint.com/installing_vim_vundle_plugin_ubuntu/)
+  [Personalizando o VI](https://ubunlog.com/pt/vundle-administra-complementos-vim/)
   <br>
   
 </details>
