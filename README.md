@@ -57,6 +57,14 @@ Comandos para consulta copy &amp; paste ou tutoriais
 </details>
 
 <details>
+  <summary> <b> VI editor </b>   </summary>
+  <br>
+  
+[VI commands](https://github.com/jrmreis/tutorials/blob/main/CommandsVi.md)
+
+  <br>
+
+<details>
   <summary> <b> CSS </b>   </summary>
   
   <br>
