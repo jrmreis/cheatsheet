@@ -99,3 +99,8 @@ lsof -w -n -i tcp:2181
 ```
 netstat -anp | grep :2181
 ```
+## Kill os programa em determinada porta:
+```
+sudo fuser -k 9092/tcp
+```
+
