@@ -89,12 +89,8 @@ kill -9 $(jobs -p)
 ## Listando programa(s) usando determinada porta:
 ´´´
 lsof -w -n -i tcp:9092
-´´´
 
-´´´
 fuser -n tcp 9092
-´´´
 
-´´´
 lsof -w -n -i tcp:2181
 ´´´
