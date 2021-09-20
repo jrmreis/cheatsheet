@@ -82,7 +82,7 @@ jobs -p | xargs -I{} kill -- -{}
 ``` 
 kill -9 `jobs -ps`
 ```
-## Kill os programa(s) em Back Ground:
+## Kill o(s) programa(s) em Back Ground:
 ```
 kill -9 $(jobs -p)
 ```
@@ -99,7 +99,7 @@ lsof -w -n -i tcp:2181
 ```
 netstat -anp | grep :2181
 ```
-## Kill os programa em determinada porta:
+## Kill programa(s) em determinada porta:
 ```
 sudo fuser -k 9092/tcp
 ```
