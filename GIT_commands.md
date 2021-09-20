@@ -228,6 +228,10 @@ Os demais **pushes** não precisam dessa informação
 
 	git clone git@github.com:leocomelli/curso-git.git
 	
+### Clonar um repositório remoto em branch específica
+	
+	git clone -b master https://github.com/jrmreis/joel_marco.git
+	
 ### Tags
 
 ##### Criando uma tag leve
