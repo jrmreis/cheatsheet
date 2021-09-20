@@ -82,3 +82,7 @@ jobs -p | xargs -I{} kill -- -{}
 ``` 
 kill -9 `jobs -ps`
 ```
+## Kill os programa(s) em Back Ground:
+```
+kill -9 $(jobs -p)
+```
