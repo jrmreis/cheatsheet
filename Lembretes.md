@@ -90,7 +90,9 @@ kill -9 $(jobs -p)
 ```
 lsof -w -n -i tcp:9092
 ```
+```
 fuser -n tcp 9092
+```
 ```
 lsof -w -n -i tcp:2181
 ```
