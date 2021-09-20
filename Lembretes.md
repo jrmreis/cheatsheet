@@ -61,7 +61,7 @@ sudo shutdown -c
 ./prog.sh &
 ```
 
-
+# Listar:
 ## Listando programa(s) em Back Ground:
 
 ``` 
@@ -86,3 +86,15 @@ kill -9 `jobs -ps`
 ```
 kill -9 $(jobs -p)
 ```
+## Listando programa(s) usando determinada porta:
+´´´
+lsof -w -n -i tcp:9092
+´´´
+
+´´´
+fuser -n tcp 9092
+´´´
+
+´´´
+lsof -w -n -i tcp:2181
+´´´
