@@ -96,3 +96,6 @@ fuser -n tcp 9092
 ```
 lsof -w -n -i tcp:2181
 ```
+```
+netstat -anp | grep :2181
+```
