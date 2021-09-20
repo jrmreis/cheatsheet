@@ -54,3 +54,31 @@ sudo shutdown -r +10
 ``` 
 sudo shutdown -c
 ```
+
+## Colocando programa em Back Ground:
+
+``` 
+./prog.sh &
+```
+
+
+## Listando programa(s) em Back Ground:
+
+``` 
+jobs
+```
+## Pid dos programa(s) em Back Ground:
+
+``` 
+jobs -p
+```
+## Parar os programa(s) em Back Ground:
+
+``` 
+jobs -p | xargs -I{} kill -- -{}
+```
+## Parar os programa(s) em Back Ground stoped:
+
+``` 
+kill -9 `jobs -ps`
+```
