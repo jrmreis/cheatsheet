@@ -98,6 +98,10 @@ Comandos para consulta copy &amp; paste ou tutoriais
 
 <br>
 
+[JPA Official Doc](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#repositories.query-methods.query-lookup-strategies)
+  
+<br>
+  
 </details>
 
 
