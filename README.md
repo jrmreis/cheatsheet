@@ -22,6 +22,10 @@ Comandos para consulta copy &amp; paste ou tutoriais
   
 [Git commands](https://github.com/jrmreis/tutorials/blob/main/GIT_commands.md)
   
+  <br>
+  
+  [Simulador Branch](https://git-school.github.io/visualizing-git/)
+  
 <br>
 
 [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
