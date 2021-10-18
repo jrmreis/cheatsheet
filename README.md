@@ -161,7 +161,7 @@ Comandos para consulta copy &amp; paste ou tutoriais
   <summary> <b> Linux </b>   </summary>
   <br>
   
-  [SFTP](https://github.com/jrmreis/crib_sheet/blob/main/linux)
+  [SFTP](https://github.com/jrmreis/crib_sheet/blob/main/linux.md)
   
   <br>
 
