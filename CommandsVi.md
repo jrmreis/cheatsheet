@@ -6,7 +6,7 @@ stty rows 40 cols 120
 ```
 
 # Convert tab to 4 spaces
-[vim 把 Tab 轉換為 4 Space](https://www.opencli.com/linux/vim-tab-auto-to-4-space)
+[vim converts Tab to 4 Space](https://www.opencli.com/linux/vim-tab-auto-to-4-space)
 ```sh
 syntax enable
 set smartindent
