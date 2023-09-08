@@ -169,4 +169,8 @@ Comandos para consulta copy &amp; paste ou tutoriais
   
   <br>
 
+  [Network Ops](https://github.com/jrmreis/cheatsheet/blob/main/linux.md#performing-network-operations)
+
+  <br>
+
 </details>
