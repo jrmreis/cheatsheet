@@ -165,7 +165,7 @@ Comandos para consulta copy &amp; paste ou tutoriais
   
   <br>
   
-  [The Basics](https://github.com/jrmreis/crib_sheet/blob/main/linux.md](https://github.com/jrmreis/cheatsheet/blob/main/linux.md#linux-and-bash-command-cheat-sheet-the-basics)https://github.com/jrmreis/cheatsheet/blob/main/linux.md#linux-and-bash-command-cheat-sheet-the-basics)
+  [The Basics](https://github.com/jrmreis/cheatsheet/blob/main/linux.md#linux-and-bash-command-cheat-sheet-the-basics)
   
   <br>
 
