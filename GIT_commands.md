@@ -185,11 +185,11 @@ A alteração do diretório pode ser realizada através do comando abaixo:
 
 ### Vincular repositório local com um repositório remoto
 
-	git remote add origin joel@joel-Lenovo-V14-G2-ITL:leocomelli/curso-git.git
+	git remote add origin git@github.com:leocomelli/curso-git.git
 
 ### Quando o repositório remoto já existe, é necessáro setá-lo
 
-	git remote set-url origin joel@joel-Lenovo-V14-G2-ITL:ppreyer/first_app.git
+	git remote set-url origin git@github.com:ppreyer/first_app.git
 	
 ### Exibir informações dos repositórios remotos
 
