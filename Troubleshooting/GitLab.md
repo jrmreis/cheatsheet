@@ -11,3 +11,5 @@
 - `exit` - sai da console.
 
 - [Reset the password of the root account in gitlab in docker]([https://jsonformatter.org/yaml-formatter](https://www.programmerall.com/article/632999018/#:~:text=Reset%20the%20password%20of%20the%20root%20account%20in,in%20to%20the%20server%20with%20root%20privileges%20first.))
+
+[GitLab-DockerCompose](https://www.czerniga.it/2021/11/14/how-to-install-gitlab-using-docker-compose/)
