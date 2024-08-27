@@ -17,6 +17,16 @@ Comandos para consulta copy &amp; paste ou tutoriais
 </details>
 
 <details>
+  <summary> <b> Gitlab </b>   </summary>
+  <br>
+  
+[Gitlab trobleshooting](https://github.com/jrmreis/Troubleshooting/GitLab.md)
+  
+  <br>
+
+</details>
+
+<details>
   <summary> <b> Github </b>   </summary>
   <br>
   
