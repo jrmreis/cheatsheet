@@ -51,7 +51,7 @@ docker0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
         TX packets 59  bytes 7670 (7.6 KB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 ```
-utilizar o IP docker0, neste caso 172.17.0.1, como hostname do gitlab-web, normalmente "localhost", no arquivo docker-compose.yml:
+utilizar o IP docker0, neste caso 172.17.0.1, como hostname do gitlab-web, normalmente "localhost", no arquivo `docker-compose.yml`:
 
 ```
 services:
