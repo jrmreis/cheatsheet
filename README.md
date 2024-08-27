@@ -20,7 +20,7 @@ Comandos para consulta copy &amp; paste ou tutoriais
   <summary> <b> Gitlab </b>   </summary>
   <br>
   
-[Gitlab trobleshooting](https://github.com/jrmreis/Troubleshooting/GitLab.md)
+[Gitlab trobleshooting](https://github.com/jrmreis/cheatsheet/blob/main/Troubleshooting/GitLab.md)
   
   <br>
 
