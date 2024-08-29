@@ -6,7 +6,7 @@ Comandos para consulta copy &amp; paste ou tutoriais
   <summary> <b> Docker </b>   </summary>
   <br>
   
-[Docker commands](https://github.com/jrmreis/tutorials/blob/main/DockerBasic.md)
+[Docker commands](https://github.com/jrmreis/CLI/tutorials/blob/main/DockerBasic.md)
 
   <br>
   
