@@ -1,0 +1,25 @@
+variables:
+  aseToken: D:\HCL\AppScanSrcData\config\ounceautod.token
+  compiledArtifactFolder: none
+  sevSecGw: highIssues
+  maxIssuesAllowed: 100
+  aseHostname: logradouro.prodesp-dc03.sp.gov.br
+  aseAppName: $CI_PROJECT_NAME
+  scanConfig: Quick scan
+
+.scan-sast:
+  tags:
+    - appscan-sast
+  script:
+    - git clone -b master --depth 1 https://${DEVOPS_USER}:${DEVOPS_TOKEN}@gitlab.prodesp.sp.gov.br/devops-hub/templates/appscan.git appscan
+    - .\appscan\scripts\appscanase_create_application_ase.ps1
+    - .\appscan\scripts\appscansrc_create_config_scan_folder.ps1
+    - .\appscan\scripts\appscansrc_scan.ps1
+    - .\appscan\scripts\appscansrc_check_security_gate.ps1
+  after_script:
+    - Remove-Item -path $CI_PROJECT_DIR\* -recurse -exclude *.pdf,*.ozasmt,*.xml,*.zip,*.scan -force
+  artifacts:
+    when: always
+    paths:
+      - "*.ozasmt"
+      - "*.pdf"

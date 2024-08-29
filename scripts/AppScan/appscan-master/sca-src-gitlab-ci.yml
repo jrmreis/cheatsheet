@@ -1,0 +1,12 @@
+.scan-sca:
+  tags:
+    - appscan-sast
+  script:
+    - git clone -b master --depth 1 https://${DEVOPS_USER}:${DEVOPS_TOKEN}@gitlab.prodesp.sp.gov.br/devops-hub/templates/appscan.git appscan
+    - .\appscan\scripts\appscanasoc_scan_sca.ps1
+  after_script:
+    - Remove-Item -path $CI_PROJECT_DIR\* -recurse -exclude *.pdf -force
+  artifacts:
+    when: always
+    paths:
+      - "*.pdf"

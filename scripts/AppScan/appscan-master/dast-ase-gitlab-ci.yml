@@ -1,0 +1,26 @@
+variables:
+  loginDastConfig: $CI_PROJECT_DIR\dast.login
+  manualExploreDastConfig: $CI_PROJECT_DIR\manualexplore.exd
+  aseAppName: $CI_PROJECT_NAME
+  sevSecGw: highIssues
+  maxIssuesAllowed: 10
+  scanTemplate: 17
+
+stages:
+  - scan-dast
+
+.scan-dast:
+  stage: scan-dast
+  tags:
+    - appscan-dast
+  script:
+    - git clone -b master --depth 1 https://${DEVOPS_USER}:${DEVOPS_TOKEN}@gitlab.prodesp.sp.gov.br/devops-hub/templates/appscan.git appscan
+    - .\appscan\scripts\appscanase_create_application_ase.ps1
+    - .\appscan\scripts\appscanase_scan.ps1
+    - .\appscan\scripts\appscanase_get_pdf_report_from_enterprise.ps1
+    - .\appscan\scripts\appscanase_get_xml_report_from_enterprise.ps1
+    - .\appscan\scripts\appscanase_check_security_gate.ps1
+  artifacts:
+    when: always
+    paths:
+      - "*.pdf"
