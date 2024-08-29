@@ -6,11 +6,11 @@ Comandos para consulta copy &amp; paste ou tutoriais
   <summary> <b> Docker </b>   </summary>
   <br>
   
-[Docker commands](https://github.com/jrmreis/CLI/tutorials/blob/main/DockerBasic.md)
+[Docker commands](https://github.com/jrmreis/cheatsheet/blob/main/CLI/DockerBasic.md)
 
   <br>
   
-  [Swarm](https://github.com/jrmreis/crib_sheet/blob/main/DockerSwarmBasic.md)
+  [Swarm](https://github.com/jrmreis/crib_sheet/blob/main/CLI/DockerSwarmBasic.md)
   
   <br>
 
@@ -20,7 +20,7 @@ Comandos para consulta copy &amp; paste ou tutoriais
   <summary> <b> Gitlab </b>   </summary>
   <br>
   
-[Gitlab trobleshooting](https://github.com/jrmreis/cheatsheet/blob/main/Troubleshooting/GitLab.md)
+[Gitlab trobleshooting](https://github.com/jrmreis/cheatsheet/blob/main/Troubleshooting/CLI/GitLab.md)
   
   <br>
 
@@ -30,7 +30,7 @@ Comandos para consulta copy &amp; paste ou tutoriais
   <summary> <b> Github </b>   </summary>
   <br>
   
-[Git commands](https://github.com/jrmreis/tutorials/blob/main/GIT_commands.md)
+[Git commands](https://github.com/jrmreis/tutorials/blob/main/CLI/GIT_commands.md)
   
   <br>
   
@@ -52,19 +52,19 @@ Comandos para consulta copy &amp; paste ou tutoriais
 
 <br>
   
-[Kafka Basic Line Commands](https://github.com/jrmreis/tutorials/blob/main/BasicKafka.md)
+[Kafka Basic Line Commands](https://github.com/jrmreis/tutorials/blob/main/CLI/BasicKafka.md)
   
 <br>
 
-[Kafka Docker commands](https://github.com/jrmreis/tutorials/blob/main/KafkaDocker.md)
+[Kafka Docker commands](https://github.com/jrmreis/tutorials/blob/main/CLI/KafkaDocker.md)
 
 <br>
 
 [Kafka cluster cloud](https://codeforgeek.com/how-to-setup-zookeeper-cluster-for-kafka/)
-- [Start](https://github.com/jrmreis/crib_sheet/blob/main/kStart.sh)
-- [Stop](https://github.com/jrmreis/crib_sheet/blob/main/kStop.sh)
-- [Producer](https://github.com/jrmreis/crib_sheet/blob/main/kProducer.sh)
-- [Consumer](https://github.com/jrmreis/crib_sheet/blob/main/kConsumer.sh)
+- [Start](https://github.com/jrmreis/crib_sheet/blob/main/scripts/kStart.sh)
+- [Stop](https://github.com/jrmreis/crib_sheet/blob/main/scripts/kStop.sh)
+- [Producer](https://github.com/jrmreis/crib_sheet/blob/main/scripts/kProducer.sh)
+- [Consumer](https://github.com/jrmreis/crib_sheet/blob/main/scripts/kConsumer.sh)
 
 <br>
 
@@ -74,7 +74,7 @@ Comandos para consulta copy &amp; paste ou tutoriais
   <summary> <b> VI editor </b>   </summary>
   <br>
   
-[VI commands](https://github.com/jrmreis/tutorials/blob/main/CommandsVi.md)
+[VI commands](https://github.com/jrmreis/tutorials/blob/main/CLI/CommandsVi.md)
 
   <br>
   
