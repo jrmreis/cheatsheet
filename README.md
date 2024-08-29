@@ -175,11 +175,11 @@ Comandos para consulta copy &amp; paste ou tutoriais
   
   <br>
   
-  [The Basics](https://github.com/jrmreis/cheatsheet/blob/main/linux.md#linux-and-bash-command-cheat-sheet-the-basics)
+  [The Basics](https://github.com/jrmreis/cheatsheet/blob/main/CLI/linux.md#linux-and-bash-command-cheat-sheet-the-basics)
   
   <br>
 
-  [Network Ops](https://github.com/jrmreis/cheatsheet/blob/main/linux.md#performing-network-operations)
+  [Network Ops](https://github.com/jrmreis/cheatsheet/blob/main/CLI/linux.md#performing-network-operations)
 
   <br>
 
