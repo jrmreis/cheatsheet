@@ -1,0 +1,1 @@
+docker compose -f $HOME/greenbone-community-container/docker-compose-22.4.yml -p greenbone-community-edition up -d notus-data vulnerability-tests scap-data dfn-cert-data cert-bund-data report-formats data-objects
