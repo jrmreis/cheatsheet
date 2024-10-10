@@ -71,6 +71,12 @@ uname -a
 man top 
 ```
 
+### monitoring memory
+
+```
+watch -n 1 "free -m"
+```
+
 ### get help on a command
 
 ```
@@ -104,10 +110,22 @@ top
 df -h
 ```
 
-### copy a file
+### copy a file (local)
 
 ```
 cp file.txt new_path/new_name.txt
+```
+
+### copy a file (remote to local)
+
+```
+scp uira@servidor.com:/home/www/arquivo .
+```
+
+### copy a file (remote to other remote)
+
+```
+scp -rcv usuario1@maquina1:/arquivos usuario2@maquina2:/backup
 ```
 
 ### change file name or path
@@ -122,6 +140,11 @@ mv this_file.txt that_path/that_file.txt
 rm this_old_file.txt -v
 ```
 
+### remove a file, quietly
+
+```
+rm this_old_file.txt -rf
+```
 
 ### create an empty file, or update existing file’s timestamp
 
