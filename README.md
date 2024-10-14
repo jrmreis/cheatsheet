@@ -17,6 +17,20 @@ Comandos para consulta copy &amp; paste ou tutoriais
 </details>
 
 <details>
+  <summary> <b> Kubernetes </b>   </summary>
+  <br>
+  
+[Prerequisites: Install](https://github.com/jrmreis/rancher-vagrant/blob/main/Install-README.md)
+
+  <br>
+
+[Rancher: Cluster-Kubernetes](https://github.com/jrmreis/rancher-vagrant/blob/main/README.md)
+
+  <br>
+  
+</details>
+
+<details>
   <summary> <b> Gitlab </b>   </summary>
   <br>
   
