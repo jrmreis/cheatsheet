@@ -20,7 +20,7 @@ Comandos para consulta copy &amp; paste ou tutoriais
   <summary> <b> Kubernetes </b>   </summary>
   <br>
   
-[Prerequisites: Install](https://github.com/jrmreis/rancher-vagrant/blob/main/Install-README.md)
+[Prerequisites: Install](https://github.com/jrmreis/rancher-vagrant/edit/main/README.md#prerequisites)
 
   <br>
 
