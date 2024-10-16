@@ -284,4 +284,39 @@ kubectl port-forward deploy/my-deployment 5000:6000
 ```      
 kubectl exec deploy/my-deployment -- ls
 ```
-[Source: k8s docs](https://kubernetes.io/docs/reference/kubectl/quick-reference/#interacting-with-deployments-and-services)                  
+[Source: k8s docs](https://kubernetes.io/docs/reference/kubectl/quick-reference/#interacting-with-deployments-and-services)       
+
+## Interacting with Nodes and cluster
+### Mark my-node as unschedulable
+```
+kubectl cordon my-node
+```
+### Drain my-node in preparation for maintenance
+```
+kubectl drain my-node
+```
+### Mark my-node as schedulable
+```
+kubectl uncordon my-node
+```
+### Show metrics for all nodes
+```
+kubectl top node
+```
+### Show metrics for a given node
+```                                                      
+kubectl top node my-node
+```
+### Display addresses of the master and services
+```
+kubectl cluster-info
+```
+### Dump current cluster state to stdout
+```
+kubectl cluster-info dump
+```
+### Dump current cluster state to /path/to/cluster-state
+```
+kubectl cluster-info dump --output-directory=/path/to/cluster-state
+```
+[Source: k8s docs](https://kubernetes.io/docs/reference/kubectl/quick-reference/#interacting-with-nodes-and-cluster)
