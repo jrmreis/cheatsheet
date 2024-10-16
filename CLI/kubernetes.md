@@ -148,3 +148,92 @@ kubectl get deployment nginx-deployment --subresource=status
 [Source: k8s docs](https://kubernetes.io/docs/reference/kubectl/quick-reference/#viewing-and-finding-resources)
 
 
+# Interacting with running Pods 
+### dump pod logs (stdout)
+```
+kubectl logs my-pod                                 
+```
+### dump pod logs, with label name=myLabel (stdout)
+```
+kubectl logs -l name=myLabel                        
+```
+### dump pod logs (stdout) for a previous instantiation of a container
+```
+kubectl logs my-pod --previous                      
+```
+### dump pod container logs (stdout, multi-container case)
+```
+kubectl logs my-pod -c my-container                 
+```
+### dump pod container logs, with label name=myLabel (stdout)
+```
+kubectl logs -l name=myLabel -c my-container        
+```
+### dump pod container logs (stdout, multi-container case) for a previous instantiation of a container
+```
+kubectl logs my-pod -c my-container --previous      
+```
+### stream pod logs (stdout)
+```
+kubectl logs -f my-pod                              
+```
+### stream pod container logs (stdout, multi-container case)
+```
+kubectl logs -f my-pod -c my-container              
+```
+### stream all pods logs with label name=myLabel (stdout)
+```
+kubectl logs -f -l name=myLabel --all-containers    
+```
+### Run pod as interactive shell
+```
+kubectl run -i --tty busybox --image=busybox:1.28 -- sh  
+```
+### Start a single instance of nginx pod in the namespace of mynamespace
+```
+kubectl run nginx --image=nginx -n mynamespace      
+```
+### Generate spec for running pod nginx and write it into a file called pod.yaml
+```
+kubectl run nginx --image=nginx --dry-run=client -o yaml > pod.yaml
+```
+### Attach to Running Container
+```                                                    
+kubectl attach my-pod -i                            
+```
+### Listen on port 5000 on the local machine and forward to port 6000 on my-pod
+```
+kubectl port-forward my-pod 5000:6000               
+```
+### Run command in existing pod (1 container case)
+```
+kubectl exec my-pod -- ls /                         
+```
+### Interactive shell access to a running pod (1 container case)
+```
+kubectl exec --stdin --tty my-pod -- /bin/sh        
+```
+### Run command in existing pod (multi-container case)
+```
+kubectl exec my-pod -c my-container -- ls /         
+```
+### Create an interactive debugging session within existing pod and immediately attach to it
+```
+kubectl debug my-pod -it --image=busybox:1.28       
+```
+### Create an interactive debugging session on a node and immediately attach to it
+```
+kubectl debug node/my-node -it --image=busybox:1.28 
+```
+### Show metrics for all pods in the default namespace
+```
+kubectl top pod                                     
+```
+### Show metrics for a given pod and its containers
+```
+kubectl top pod POD_NAME --containers               
+```
+### Show metrics for a given pod and sort it by 'cpu' or 'memory'
+```
+kubectl top pod POD_NAME --sort-by=cpu              
+```
