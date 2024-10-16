@@ -320,3 +320,32 @@ kubectl cluster-info dump
 kubectl cluster-info dump --output-directory=/path/to/cluster-state
 ```
 [Source: k8s docs](https://kubernetes.io/docs/reference/kubectl/quick-reference/#interacting-with-nodes-and-cluster)
+
+## Resource types (api):
+### All namespaced resources
+```
+kubectl api-resources --namespaced=true
+```
+### All non-namespaced resources
+```
+kubectl api-resources --namespaced=false
+```
+### All resources with simple output (only the resource name)
+```
+kubectl api-resources -o name
+```
+### All resources with expanded (aka "wide") output
+```        
+kubectl api-resources -o wide
+```
+### All resources that support the "list" and "get" request verbs
+```
+kubectl api-resources --verbs=list,get
+```
+### All resources in the "extensions" API group
+```
+kubectl api-resources --api-group=extensions
+``` 
+
+[Source: k8s docs](https://kubernetes.io/docs/reference/kubectl/quick-reference/#resource-types)
+
