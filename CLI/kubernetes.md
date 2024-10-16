@@ -259,6 +259,29 @@ kubectl cp my-namespace/my-pod:/tmp/foo /tmp/bar
 ```
 [Source: k8s docs](https://kubernetes.io/docs/reference/kubectl/quick-reference/#copying-files-and-directories-to-and-from-containers)
 
-
-
-
+## Interacting with Deployments and Services
+### dump Pod logs for a Deployment (single-container case)
+```
+kubectl logs deploy/my-deployment
+```
+### dump Pod logs for a Deployment (multi-container case)
+```
+kubectl logs deploy/my-deployment -c my-container
+```
+### listen on local port 5000 and forward to port 5000 on Service backend        
+```
+kubectl port-forward svc/my-service 5000
+```
+### listen on local port 5000 and forward to Service target port with name <my-service-port>
+```                
+kubectl port-forward svc/my-service 5000:my-service-port  
+```
+### listen on local port 5000 and forward to port 6000 on a Pod created by <my-deployment>
+```
+kubectl port-forward deploy/my-deployment 5000:6000
+```
+### run command in first Pod and first container in Deployment (single- or multi-container cases)
+```      
+kubectl exec deploy/my-deployment -- ls
+```
+[Source: k8s docs](https://kubernetes.io/docs/reference/kubectl/quick-reference/#interacting-with-deployments-and-services)                  
