@@ -237,3 +237,28 @@ kubectl top pod POD_NAME --containers
 ```
 kubectl top pod POD_NAME --sort-by=cpu              
 ```
+
+[Source: k8s docs](https://kubernetes.io/docs/reference/kubectl/quick-reference/#interacting-with-running-pods)
+
+## Copying files and directories to and from containers
+### Copy /tmp/foo_dir local directory to /tmp/bar_dir in a remote pod in the current namespace
+```
+kubectl cp /tmp/foo_dir my-pod:/tmp/bar_dir            
+```
+### Copy /tmp/foo local file to /tmp/bar in a remote pod in a specific container
+```
+kubectl cp /tmp/foo my-pod:/tmp/bar -c my-container 
+```
+### Copy /tmp/foo local file to /tmp/bar in a remote pod in namespace my-namespace
+```
+kubectl cp /tmp/foo my-namespace/my-pod:/tmp/bar       
+```
+### Copy /tmp/foo from a remote pod to /tmp/bar locally
+```
+kubectl cp my-namespace/my-pod:/tmp/foo /tmp/bar      
+```
+[Source: k8s docs](https://kubernetes.io/docs/reference/kubectl/quick-reference/#copying-files-and-directories-to-and-from-containers)
+
+
+
+
