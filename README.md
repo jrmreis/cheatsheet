@@ -27,6 +27,10 @@ Comandos para consulta copy &amp; paste ou tutoriais
 [Rancher: Cluster-Kubernetes](https://github.com/jrmreis/rancher-vagrant/blob/main/README.md#to-create-vms)
 
   <br>
+
+[Troubleshooting Kubernetes](Troubleshooting/TroubleshootingKubernetes.png)
+
+  <br>
   
 </details>
 
