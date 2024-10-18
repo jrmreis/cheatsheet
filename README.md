@@ -45,6 +45,10 @@ Comandos para consulta copy &amp; paste ou tutoriais
 </details>
 
 <details>
+  <summary> <b> Dev </b>   </summary>
+  
+  <br>
+<details>
   <summary> <b> Github </b>   </summary>
   <br>
   
@@ -183,6 +187,7 @@ Comandos para consulta copy &amp; paste ou tutoriais
   
   <br>
 
+</details>
 </details>
 
 <details>
