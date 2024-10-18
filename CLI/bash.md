@@ -691,3 +691,4 @@ case $weather in
   ;;
 esac
 ```
+[Source (clone)](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
