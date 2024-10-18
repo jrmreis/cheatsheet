@@ -208,7 +208,9 @@ Comandos para consulta copy &amp; paste ou tutoriais
 <details>
   <summary> <b> Phyton </b>   </summary>
   <br>
-[Phyton]()
+  
+[Phyton](https://www.pythoncheatsheet.org/cheatsheet/basics)
+
   <br>
 </details>
 </details>
