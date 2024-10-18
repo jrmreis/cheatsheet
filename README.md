@@ -220,7 +220,14 @@ Comandos para consulta copy &amp; paste ou tutoriais
 [Powershell Reference](https://github.com/ab14jain/PowerShell)
 
   <br>
+</details>  
+<details>
+  <summary> <b> Bash </b>   </summary>
+  <br> 
   
+  [Bash](https://github.com/jrmreis/cheatsheet/edit/main/CLI/bash.md)
+  
+  <br>
 </details>
 </details>
 
