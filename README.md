@@ -43,8 +43,25 @@ Comandos para consulta copy &amp; paste ou tutoriais
   <br>
 
 </details>
-
 <details>
+  <summary> <b> Linux </b>   </summary>
+  <br>
+  
+  [SFTP](https://github.com/jrmreis/crib_sheet/blob/main/CLI/linux.md)
+  
+  <br>
+  
+  [The Basics](https://github.com/jrmreis/cheatsheet/blob/main/CLI/linux.md#linux-and-bash-command-cheat-sheet-the-basics)
+  
+  <br>
+
+  [Network Ops](https://github.com/jrmreis/cheatsheet/blob/main/CLI/linux.md#performing-network-operations)
+
+  <br>
+
+</details>
+
+<details open>
   <summary> <b> Dev </b>   </summary>
   
   <br>
@@ -190,20 +207,4 @@ Comandos para consulta copy &amp; paste ou tutoriais
 </details>
 </details>
 
-<details>
-  <summary> <b> Linux </b>   </summary>
-  <br>
-  
-  [SFTP](https://github.com/jrmreis/crib_sheet/blob/main/CLI/linux.md)
-  
-  <br>
-  
-  [The Basics](https://github.com/jrmreis/cheatsheet/blob/main/CLI/linux.md#linux-and-bash-command-cheat-sheet-the-basics)
-  
-  <br>
 
-  [Network Ops](https://github.com/jrmreis/cheatsheet/blob/main/CLI/linux.md#performing-network-operations)
-
-  <br>
-
-</details>
