@@ -212,6 +212,15 @@ Comandos para consulta copy &amp; paste ou tutoriais
 [Phyton](https://www.pythoncheatsheet.org/cheatsheet/basics)
 
   <br>
+</details>  
+<details>
+  <summary> <b> Powershell </b>   </summary>
+  <br>  
+  
+[Powershell Reference](https://github.com/ab14jain/PowerShell)
+
+  <br>
+  
 </details>
 </details>
 
