@@ -203,7 +203,13 @@ Comandos para consulta copy &amp; paste ou tutoriais
   [JavaScript - doc oficial](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   
   <br>
+</details>
 
+<details>
+  <summary> <b> Phyton </b>   </summary>
+  <br>
+[Phyton]()
+  <br>
 </details>
 </details>
 
